@@ -2,7 +2,7 @@
 
 This is a simple Spotify frontend. 
 
-In this small project, I had my first contact with tailwind, I used tailwind as CSS...
+In this small project, I had my first contact with tailwind where I used tailwind as CSS...
 
 Tailwind is a CSS framework that provides a catalog of custom style classes to quickly style our htm avoiding the user to write long codes.
 
@@ -13,10 +13,8 @@ Take a look and check out the small demonstration of the projects I've worked on
 
 </br>
  ## About
-<p>Essa é uma pagina estática.</p>
-  Não possui nenhuma interatividade por hora.
-  
-  Mas representa fielmente a estrutura de uma das várias telas presentes no spotify web.
+<p>This is a static page.</p>
+  But it faithfully represents the structure of one of the many screens present on spotify web.
 
 ![preview](./.github/Mainpage.png)
 </br></br></br></br>
